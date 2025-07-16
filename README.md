@@ -29,14 +29,13 @@ Each task can be removed with a single click
 Clean interface and responsive design
 
 📁 Folder Structure
-css
-Copy
-Edit
 project-folder/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # All styles
 └── script.js        # JavaScript logic (form validation + todo list)
+
+
 🎯 Learning Objectives:
 Practice real-time form validation using JavaScript
 
@@ -54,14 +53,3 @@ Open index.html in any modern web browser
 Choose between the To-Do List or Contact Form when prompted
 
 Interact with the section of your choice!
-
-📸 Screenshots (optional)
-(Add screenshots here if uploading to GitHub)
-
-🙋‍♂️ Author
-Manya Jain
-Aspiring Frontend Developer | Passionate about clean design and interactivity
-
-🏷 Tags:
-HTML CSS JavaScript ToDoList FormValidation FrontendPractice MiniProject ResponsiveDesign
-
